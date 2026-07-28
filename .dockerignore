@@ -90,7 +90,7 @@ Dockerfile
 
 # Config files with secrets (mounted as volume)
 .env
-CONFIG/config.py
+# CONFIG/config.py
 
 # Binary files
 yt-dlp
